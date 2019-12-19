@@ -63,5 +63,3 @@ def radix_sort(integers_array)
   end
   integers_array
 end
-
-print radix_sort([18, 5, 100, 3, 1, 19, 6, 0, 7, 4, 2])
