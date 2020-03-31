@@ -48,6 +48,7 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 10. [Pancake Sort](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/sorting/PancakeSort.rb)
 11. [Sort array in wave form](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/sorting/SortInWaveForm.rb)
 12. [Sort a given array by frequency of elements](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/SortArrayByFrequency.rb)
+13. [Radix Sort](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/sorting/RadixSort.rb)
 
 <a name="arrays"/>
 
