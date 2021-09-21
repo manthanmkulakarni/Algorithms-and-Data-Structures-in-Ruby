@@ -7,26 +7,33 @@ def majority_element(a)
   	len=a.length
    	lo=0
   	hi=len-1
-   	candidate=a[lo+(hi-lo)/2]
-   while hi-lo>1
-        mid=lo+(hi-lo)/2
-        if a[mid]>=candidate
-            hi=mid
-        else
-            lo=mid
-        end
-   end
+	  mid= lo+(hi-lo)/2
+   	candidate=a[mid]
+	  if len%2==0 && a[lo]==a[mid+1]
+		    return candidate
+	  elsif len%2 !=0 && a[lo]==candidate
+		    return candidate
+	  else
+		    while hi-lo>1
+	          mid=lo+(hi-lo)/2
+            if a[mid]>=candidate
+	            hi=mid
+	          else
+	            lo=mid
+            end
+		    end
   
-   if a[hi]==candidate
-       	left_index=hi
-     	right_index=left_index+(len/2)
-  		if a[right_index]==candidate
-          return candidate
-   		else
-       		return -1
-   		end
-   end
-  
-    
+	      if a[hi]==candidate
+	       	  left_index=hi
+	     	    right_index=left_index+(len/2)
+        
+	  		    if a[right_index]==candidate
+	            return candidate
+	   		    else
+	       		  return -1
+	   		    end
+	      end
+  	    
+	  end
 end
-majority_element([1,2, 2, 3, 3, 3, 3]) # => 3
+puts majority_element([1,1,3,3,3,3]) # output 3
