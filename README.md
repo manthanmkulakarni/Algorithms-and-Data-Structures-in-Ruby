@@ -6,6 +6,7 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 
 ## Content : 
 * [Searching](#searching)
+* [Heuristic](#heuristic)
 * [Sorting](#sorting)
 * [Arrays](#arrays)
 * [Hashing](#hashing)
@@ -31,6 +32,11 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
     * [Find floor and ceil of given element in a sorted Array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/Floor&CeilInInSortedArray.rb)
     * [Find the element with odd occurences if all other elements have even occurences](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/OddOccurence.rb)
     * [Find the median of two sorted array of equal size](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/MedianOf2SortedArrays.rb)
+
+<a name="heuristic"/>
+
+### Heuristic 
+1. [Minimax Algorithm](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/heuristic/MiniMax.rb)
 
 <a name="sorting"/>
 
