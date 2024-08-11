@@ -148,11 +148,19 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 <a name="maths"/>
 
 ### Mathematics
-
 1. [Fast multiplication of two numbers(Russian Peasant Multiplication)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/mathematics/FastMultiplication.rb)
 2. [Babylonian Method to find Square root of a number ](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/mathematics/BabylonianMethodSqrt.rb)
 2. [Find missing number in array(Approach 1)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/FindMissingNumber.rb)
 3. [Find two repeating elements in given array(Approach 1)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/FindTwoRepeatingElem.rb)
+
+<a name="leetcode">
+### [LeetCode](https://leetcode.com/)
+<a name="grind75">
+#### [Grind-75](https://www.techinterviewhandbook.org/grind75)
+
+#### Problems
+1. [Two Sum](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/two_sum.rb)
+2. [Valid Parentheses](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/valid_parentheses.rb)
 
 <a name="hackerrank"/>
 
