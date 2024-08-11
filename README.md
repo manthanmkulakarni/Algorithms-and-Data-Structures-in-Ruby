@@ -15,6 +15,7 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 * [Mathematics](#maths)
 * [HackerRank](#hackerrank)
 * [Codility](#codility)
+* [LeetCode](#leetcode)
 
 <a name="searching"/>
 
