@@ -15,7 +15,7 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 * [Mathematics](#maths)
 * [HackerRank](#hackerrank)
 * [Codility](#codility)
-* [LeetCode](#leetcode)
+* [Grind-75](#grind-75)
 
 <a name="searching"/>
 
@@ -154,12 +154,9 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 2. [Find missing number in array(Approach 1)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/FindMissingNumber.rb)
 3. [Find two repeating elements in given array(Approach 1)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/FindTwoRepeatingElem.rb)
 
-<a name="leetcode">
-### [LeetCode](https://leetcode.com/)
-<a name="grind75">
-#### [Grind-75](https://www.techinterviewhandbook.org/grind75)
-
-#### Problems
+<a name="grind-75">
+   
+### [Grind-75](https://www.techinterviewhandbook.org/grind75)
 1. [Two Sum](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/two_sum.rb)
 2. [Valid Parentheses](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/valid_parentheses.rb)
 
