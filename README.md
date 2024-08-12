@@ -13,9 +13,11 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 * [Stacks](#stacks)
 * [Bit Algorithms](#bitAlgo)
 * [Mathematics](#maths)
+* [Grind-75](#grind-75)
+* [Exercism Ruby Track](#exercism)
 * [HackerRank](#hackerrank)
 * [Codility](#codility)
-* [Grind-75](#grind-75)
+
 
 <a name="searching"/>
 
@@ -159,6 +161,17 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 ### [Grind-75](https://www.techinterviewhandbook.org/grind75)
 1. [Two Sum](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/two_sum.rb)
 2. [Valid Parentheses](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/valid_parentheses.rb)
+
+<a name="exercism">
+
+###[Exercism Ruby Track](https://exercism.org/tracks/ruby)
+
+#### Problems
+1. [Hello World](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/hello_world.rb)
+2. [Lasagna](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/lasagna.rb)
+3. [Amusement Park](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/amusement_park.rb)
+4. [Amusement Parks Improvements](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/amusement_parks_improvements.rb)
+5. [Log Line Parser](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/log_line_parser.rb)
 
 <a name="hackerrank"/>
 
