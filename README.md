@@ -9,6 +9,7 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 * [Heuristic](#heuristic)
 * [Sorting](#sorting)
 * [Arrays](#arrays)
+* [Strings](#strings)
 * [Hashing](#hashing)
 * [Stacks](#stacks)
 * [Linked List](#linked_list)
@@ -123,14 +124,22 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 41. [Print all distinct elements of given array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/PrintDistinct.rb)
 42. [Given an array array, find the maximum j – i such that the element later is bigger](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/MaxJminusI.rb)
 
+<a name="strings"/>
+
+### Strings
+1. [Longest Palindrome](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/longest_palindrome.rb)
+2. [Valid Anagram](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/valid_anagram.rb)
+3. [Valid Palindrome](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/valid_palindrome.rb)
+
 <a name="hashing"/>
 
-### Hashing
+### Hashing/HashMaps
 
 1. [Find pair in array with sum equal to given value(Approach 1)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/ChekPairWithGivenSum.rb)
 2. [Find pair in array with difference equal to given value(Approach 2)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/ChekPairWithGivenDiff.rb)
 3. [Sort a given array by frequency of elements](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/SortArrayByFrequency.rb)
 4. [Print all distinct elements of given array(Approach 2)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/PrintDistinct.rb)
+5. [Longest Palindrome](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/longest_palindrome.rb)
 
 <a name="stacks"/>
 
@@ -180,11 +189,16 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 9. [Linked List Cycle](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/linked_list_cycle.rb)
 10. [Reverse Linked List](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/reverse_linked_list.rb)
 11. [Middle of the Linked List](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/middle_of_a_linked_list.rb)
+12. [Majority Element](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/majority_element.rb)
+13. [Contains Duplicates](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/contains_duplicates.rb)
+14. [Squares of sorted array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/squares_of_sorted_array.rb)
+15. [Move zeroes](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/move_zeroes.rb)
+16. [Longest Palindrome](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/longest_palindrome.rb)
 
 
 <a name="exercism"/>
 
-###[Exercism Ruby Track](https://exercism.org/tracks/ruby)
+### [Exercism Ruby Track](https://exercism.org/tracks/ruby)
 
 #### Problems
 1. [Hello World](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/hello_world.rb)
