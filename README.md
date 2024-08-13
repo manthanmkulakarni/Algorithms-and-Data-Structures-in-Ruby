@@ -37,6 +37,7 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
     * [Find floor and ceil of given element in a sorted Array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/Floor&CeilInInSortedArray.rb)
     * [Find the element with odd occurences if all other elements have even occurences](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/OddOccurence.rb)
     * [Find the median of two sorted array of equal size](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/MedianOf2SortedArrays.rb)
+    * [First Bad Version](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/first_bad_version.rb)
 
 <a name="heuristic"/>
 
@@ -154,6 +155,7 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 2. [Middle of the Linked List](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/middle_of_a_linked_list.rb)
 3. [Linked List Cycle](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/linked_list_cycle.rb)
 4. [Merge Two Sorted Lists](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/merge_sorted_lists.rb)
+5. [Palindrome Linked List](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/palindrome_linked_list.rb)
 
 
 <a name="bitAlgo"/>
@@ -194,6 +196,11 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 14. [Squares of sorted array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/squares_of_sorted_array.rb)
 15. [Move zeroes](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/move_zeroes.rb)
 16. [Longest Palindrome](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/longest_palindrome.rb)
+17. [Palindrome Linked List](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/palindrome_linked_list.rb)
+18. [First Bad Version](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/first_bad_version.rb)
+19. [Missing Number](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/missing_number.rb)
+20. [Single Number](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/single_number.rb)
+21. [Palindrome Number](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/palindrome_number.rb)
 
 
 <a name="striver"/>
