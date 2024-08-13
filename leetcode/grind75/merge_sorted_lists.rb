@@ -6,7 +6,7 @@ Return the head of the merged linked list.
 
 #Solution
 def merge_two_lists(list1, list2)
-    result = []
+    result = [] # initialize with ListNode instead of taking array
     curr_1 = list1
     curr_2 = list2
     until curr_1.nil? or curr_2.nil?
