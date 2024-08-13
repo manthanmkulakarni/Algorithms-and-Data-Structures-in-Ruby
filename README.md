@@ -11,6 +11,7 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 * [Arrays](#arrays)
 * [Hashing](#hashing)
 * [Stacks](#stacks)
+* [Linked List](#linked_list)
 * [Bit Algorithms](#bitAlgo)
 * [Mathematics](#maths)
 * [Grind-75](#grind-75)
@@ -137,6 +138,15 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 
 1. [Print Next Greatest Element for each element of array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/NextGreatestElement.rb)
 
+<a name="linked_list"/>
+
+### Linked List
+1. [Reverse Linked List](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/reverse_linked_list.rb)
+2. [Middle of the Linked List](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/middle_of_a_linked_list.rb)
+3. [Linked List Cycle](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/linked_list_cycle.rb)
+4. [Merge Two Sorted Lists](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/merge_sorted_lists.rb)
+
+
 <a name="bitAlgo"/>
 
 ### Bit Algorithms
@@ -156,13 +166,23 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 2. [Find missing number in array(Approach 1)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/FindMissingNumber.rb)
 3. [Find two repeating elements in given array(Approach 1)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/FindTwoRepeatingElem.rb)
 
-<a name="grind-75">
+<a name="grind-75"/>
    
 ### [Grind-75](https://www.techinterviewhandbook.org/grind75)
 1. [Two Sum](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/two_sum.rb)
 2. [Valid Parentheses](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/valid_parentheses.rb)
+3. [Merge Two Sorted Lists](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/merge_sorted_lists.rb)
+4. [Best Time to Buy and Sell Stock](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/best_time_to_buy_and_sell.rb)
+5. [Valid Palindrome](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/valid_palindrome.rb)
+6. [Invert Binary Tree](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/invert_binary_tree.rb)
+7. [Valid Anagram](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/valid_anagram.rb)
+8. [Binary Search](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/binary_search.rb)
+9. [Linked List Cycle](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/linked_list_cycle.rb)
+10. [Reverse Linked List](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/reverse_linked_list.rb)
+11. [Middle of the Linked List](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/middle_of_a_linked_list.rb)
 
-<a name="exercism">
+
+<a name="exercism"/>
 
 ###[Exercism Ruby Track](https://exercism.org/tracks/ruby)
 
