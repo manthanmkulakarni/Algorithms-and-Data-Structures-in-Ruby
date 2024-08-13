@@ -16,10 +16,10 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 * [Bit Algorithms](#bitAlgo)
 * [Mathematics](#maths)
 * [Grind-75](#grind-75)
+* [Striver's Sheet](#striver)
 * [Exercism Ruby Track](#exercism)
 * [HackerRank](#hackerrank)
 * [Codility](#codility)
-
 
 <a name="searching"/>
 
@@ -196,6 +196,14 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 16. [Longest Palindrome](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/longest_palindrome.rb)
 
 
+<a name="striver"/>
+
+### [Striver's Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems)
+1. [Buy and Sell Stock](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/best_time_to_buy_and_sell.rb)
+2. [Majority Element](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/majority_element.rb)
+3. [Reverse Linked List](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/reverse_linked_list.rb)
+4. [Middle of the Linked List](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/middle_of_a_linked_list.rb)
+
 <a name="exercism"/>
 
 ### [Exercism Ruby Track](https://exercism.org/tracks/ruby)
@@ -206,6 +214,11 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 3. [Amusement Park](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/amusement_park.rb)
 4. [Amusement Parks Improvements](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/amusement_parks_improvements.rb)
 5. [Log Line Parser](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/log_line_parser.rb)
+6. [Assembly Line](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/assembly_line.rb)
+7. [Savings Account](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/savings_account.rb)
+8. [Port Palermo](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/port_palermo.rb))
+9. [Chess Game](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/chess_game.rb))
+10. [BlackJack](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/blackjack.rb))
 
 <a name="hackerrank"/>
 
