@@ -15,6 +15,9 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 * [Linked List](#linked_list)
 * [Bit Algorithms](#bitAlgo)
 * [Mathematics](#maths)
+* [Trees]
+    *[Binary Tree](#binary_tree)
+    *[Binary Search Tree](#bst)
 * [Dynamic Programming](#dp)
 * [Exercism Ruby Track](#exercism)
 * [LeetCode](#leetcode)
@@ -180,6 +183,16 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 2. [Find missing number in array(Approach 1)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/FindMissingNumber.rb)
 3. [Find two repeating elements in given array(Approach 1)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/FindTwoRepeatingElem.rb)
 
+<a name="binary_tree"/>
+
+### Binary Trees
+1. [Invert Binary Tree](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/invert_binary_tree.rb)
+
+<a name="bst"/>
+
+### Binary Search Trees
+1. [Lowest Common Ancestor of BST](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/lowest_common_ancestor.rb)
+
 <a name="dp"/>
 
 ### Dynamic Programming
@@ -197,9 +210,15 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 5. [Log Line Parser](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/log_line_parser.rb)
 6. [Assembly Line](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/assembly_line.rb)
 7. [Savings Account](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/savings_account.rb)
-8. [Port Palermo](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/port_palermo.rb))
-9. [Chess Game](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/chess_game.rb))
-10. [BlackJack](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/blackjack.rb))
+8. [Port Palermo](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/port_palermo.rb)
+9. [Chess Game](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/chess_game.rb)
+10. [BlackJack](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/blackjack.rb)
+11. [Bird Count](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/bird_count.rb)
+11. [Boutique Inventory](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/boutique_inventory.rb)
+11. [Boutique Inventory Improvements](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/boutique_inventory_improvements.rb)
+11. [Locomotive Engineer](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/locomotive_engineer.rb)
+11. [Moviegoer](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/moviegoer.rb)
+
 
 <a name="leetcode"/>
 
@@ -232,6 +251,7 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 22. [Backspace String Compare](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/backspace_string_compare.rb)
 23. [Ransom Note](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/ransom_note.rb)
 24. [Climbing Stairs](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/climbing_stairs.rb)
+25. [Lowest Common Ancestor of BST](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/lowest_common_ancestor.rb)
 
 
 <a name="striver"/>
