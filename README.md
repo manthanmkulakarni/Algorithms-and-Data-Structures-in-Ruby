@@ -15,9 +15,9 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 * [Linked List](#linked_list)
 * [Bit Algorithms](#bitAlgo)
 * [Mathematics](#maths)
-* [Trees]
-    *[Binary Tree](#binary_tree)
-    *[Binary Search Tree](#bst)
+* [Trees](#tree)
+    * [Binary Tree](#binary_tree)
+    * [Binary Search Tree](#bst)
 * [Dynamic Programming](#dp)
 * [Exercism Ruby Track](#exercism)
 * [LeetCode](#leetcode)
@@ -182,6 +182,11 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 2. [Babylonian Method to find Square root of a number ](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/mathematics/BabylonianMethodSqrt.rb)
 2. [Find missing number in array(Approach 1)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/FindMissingNumber.rb)
 3. [Find two repeating elements in given array(Approach 1)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/FindTwoRepeatingElem.rb)
+
+
+<a name="tree"/>
+
+### Trees
 
 <a name="binary_tree"/>
 
