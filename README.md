@@ -15,6 +15,7 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 * [Linked List](#linked_list)
 * [Bit Algorithms](#bitAlgo)
 * [Mathematics](#maths)
+* [Dynamic Programming](#dp)
 * [Exercism Ruby Track](#exercism)
 * [LeetCode](#leetcode)
    * [Grind-75](#grind-75)
@@ -148,6 +149,7 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 ### Stacks
 
 1. [Print Next Greatest Element for each element of array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/NextGreatestElement.rb)
+2. [Backspace String Compare](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/backspace_string_compare.rb)
 
 <a name="linked_list"/>
 
@@ -177,6 +179,11 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 2. [Babylonian Method to find Square root of a number ](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/mathematics/BabylonianMethodSqrt.rb)
 2. [Find missing number in array(Approach 1)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/FindMissingNumber.rb)
 3. [Find two repeating elements in given array(Approach 1)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/FindTwoRepeatingElem.rb)
+
+<a name="dp"/>
+
+### Dynamic Programming
+1. [Climbing Stairs](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/climbing_stairs.rb)
 
 <a name="exercism"/>
 
@@ -222,6 +229,9 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 19. [Missing Number](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/missing_number.rb)
 20. [Single Number](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/single_number.rb)
 21. [Palindrome Number](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/palindrome_number.rb)
+22. [Backspace String Compare](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/backspace_string_compare.rb)
+23. [Ransom Note](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/ransom_note.rb)
+24. [Climbing Stairs](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/climbing_stairs.rb)
 
 
 <a name="striver"/>
