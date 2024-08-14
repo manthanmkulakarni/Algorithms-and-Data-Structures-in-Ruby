@@ -178,8 +178,28 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 2. [Find missing number in array(Approach 1)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/FindMissingNumber.rb)
 3. [Find two repeating elements in given array(Approach 1)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/FindTwoRepeatingElem.rb)
 
+<a name="exercism"/>
+
+### [Exercism Ruby Track](https://exercism.org/tracks/ruby)
+
+#### Problems
+1. [Hello World](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/hello_world.rb)
+2. [Lasagna](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/lasagna.rb)
+3. [Amusement Park](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/amusement_park.rb)
+4. [Amusement Parks Improvements](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/amusement_parks_improvements.rb)
+5. [Log Line Parser](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/log_line_parser.rb)
+6. [Assembly Line](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/assembly_line.rb)
+7. [Savings Account](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/savings_account.rb)
+8. [Port Palermo](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/port_palermo.rb))
+9. [Chess Game](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/chess_game.rb))
+10. [BlackJack](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/blackjack.rb))
+
+<a name="leetcode"/>
+
+##LeetCode
+
 <a name="grind-75"/>
-   
+
 ### [Grind-75](https://www.techinterviewhandbook.org/grind75)
 1. [Two Sum](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/two_sum.rb)
 2. [Valid Parentheses](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/valid_parentheses.rb)
@@ -211,22 +231,6 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 2. [Majority Element](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/majority_element.rb)
 3. [Reverse Linked List](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/reverse_linked_list.rb)
 4. [Middle of the Linked List](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/middle_of_a_linked_list.rb)
-
-<a name="exercism"/>
-
-### [Exercism Ruby Track](https://exercism.org/tracks/ruby)
-
-#### Problems
-1. [Hello World](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/hello_world.rb)
-2. [Lasagna](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/lasagna.rb)
-3. [Amusement Park](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/amusement_park.rb)
-4. [Amusement Parks Improvements](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/amusement_parks_improvements.rb)
-5. [Log Line Parser](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/log_line_parser.rb)
-6. [Assembly Line](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/assembly_line.rb)
-7. [Savings Account](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/savings_account.rb)
-8. [Port Palermo](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/port_palermo.rb))
-9. [Chess Game](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/chess_game.rb))
-10. [BlackJack](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/blackjack.rb))
 
 <a name="hackerrank"/>
 
