@@ -196,7 +196,7 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 
 <a name="leetcode"/>
 
-##LeetCode
+## [LeetCode](https://leetcode.com/problems)
 
 <a name="grind-75"/>
 
