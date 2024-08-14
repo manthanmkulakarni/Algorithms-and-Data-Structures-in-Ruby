@@ -15,9 +15,10 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 * [Linked List](#linked_list)
 * [Bit Algorithms](#bitAlgo)
 * [Mathematics](#maths)
-* [Grind-75](#grind-75)
-* [Striver's Sheet](#striver)
 * [Exercism Ruby Track](#exercism)
+* [LeetCode](#leetcode)
+   * [Grind-75](#grind-75)
+   * [Striver's Sheet](#striver)
 * [HackerRank](#hackerrank)
 * [Codility](#codility)
 
