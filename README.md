@@ -190,12 +190,12 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 
 <a name="binary_tree"/>
 
-### Binary Trees
+#### Binary Trees
 1. [Invert Binary Tree](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/invert_binary_tree.rb)
 
 <a name="bst"/>
 
-### Binary Search Trees
+#### Binary Search Trees
 1. [Lowest Common Ancestor of BST](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/lowest_common_ancestor.rb)
 
 <a name="dp"/>
