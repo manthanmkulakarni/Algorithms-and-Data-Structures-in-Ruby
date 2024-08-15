@@ -175,6 +175,7 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 5. [Find missing number in array(Approach 2)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/FindMissingNumber.rb)
 6. [Find two repeating elements in given array(Approach 4)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/FindTwoRepeatingElem.rb)
 7. [Add Binary](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/add_binary.rb)
+8. [Counting Bits](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/counting_bits.rb)
  
 <a name="maths"/>
 
@@ -194,7 +195,7 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 #### Binary Trees
 1. [Invert Binary Tree](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/invert_binary_tree.rb)
 2. [Height of Binary Tree](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/max_depth_of_binary_tree.rb)
-
+3. [Same Tree](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/same_tree.rb)
 
 <a name="bst"/>
 
@@ -264,6 +265,9 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 26. [Add Binary](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/add_binary.rb)
 27. [Max Depth of Binary Tree](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/max_depth_of_binary_tree.rb)
 28. [Sorted Array to BST](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/sorted_array_to_bst.rb)
+29. [Maximum Subarray Sum](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/maximum_subarray_sum.rb)
+30. [Same Tree](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/same_tree.rb)
+31. [Counting Bits](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/counting_bits.rb)
 
 <a name="striver"/>
 
