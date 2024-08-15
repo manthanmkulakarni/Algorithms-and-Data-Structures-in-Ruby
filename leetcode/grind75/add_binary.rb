@@ -10,7 +10,7 @@ def add_binary(a, b)
     j =b.length-1
     while i>=0 or j>=0
         char_a = i>=0 ? a[i] : '0' 
-        char_b = j>=0 ? b[i] : '0'
+        char_b = j>=0 ? b[j] : '0'
         if char_a =='0' and char_b=='0'
             char,carry = carry>0 ? [1,0] : [0,0] 
             result="#{char}#{result}"
