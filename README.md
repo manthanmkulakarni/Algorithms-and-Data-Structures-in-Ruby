@@ -174,6 +174,7 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 4. [Count the number of set bits(Brian Kernighan's method)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/bitAlgorithms/CountSetBits.rb)
 5. [Find missing number in array(Approach 2)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/FindMissingNumber.rb)
 6. [Find two repeating elements in given array(Approach 4)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/FindTwoRepeatingElem.rb)
+7. [Add Binary](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/add_binary.rb)
  
 <a name="maths"/>
 
@@ -257,6 +258,7 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 23. [Ransom Note](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/ransom_note.rb)
 24. [Climbing Stairs](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/climbing_stairs.rb)
 25. [Lowest Common Ancestor of BST](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/lowest_common_ancestor.rb)
+26. [Add Binary](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/add_binary.rb)
 
 
 <a name="striver"/>
