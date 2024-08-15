@@ -13,7 +13,7 @@ def add_binary(a, b)
         char_b = j>=0 ? b[j] : '0'
         if char_a =='0' and char_b=='0'
             char,carry = carry>0 ? [1,0] : [0,0] 
-            result="#{char}#{result}"
+            result="#{char}#{result}" #instead of adding har in front you can append and reverse result in the end
         elsif (char_a=='0' and char_b=='1') or (char_a=='1' and char_b=='0')
             char,carry = carry>0 ? [0,1] : [1,0] 
             result="#{char}#{result}"

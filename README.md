@@ -193,11 +193,14 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 
 #### Binary Trees
 1. [Invert Binary Tree](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/invert_binary_tree.rb)
+2. [Height of Binary Tree](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/max_depth_of_binary_tree.rb)
+
 
 <a name="bst"/>
 
 #### Binary Search Trees
 1. [Lowest Common Ancestor of BST](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/lowest_common_ancestor.rb)
+2. [Sorted Array to BST](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/sorted_array_to_bst.rb)
 
 <a name="dp"/>
 
@@ -259,7 +262,8 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 24. [Climbing Stairs](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/climbing_stairs.rb)
 25. [Lowest Common Ancestor of BST](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/lowest_common_ancestor.rb)
 26. [Add Binary](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/add_binary.rb)
-
+27. [Max Depth of Binary Tree](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/max_depth_of_binary_tree.rb)
+28. [Sorted Array to BST](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/sorted_array_to_bst.rb)
 
 <a name="striver"/>
 
