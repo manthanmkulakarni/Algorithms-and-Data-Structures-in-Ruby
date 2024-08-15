@@ -176,6 +176,8 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 6. [Find two repeating elements in given array(Approach 4)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/FindTwoRepeatingElem.rb)
 7. [Add Binary](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/add_binary.rb)
 8. [Counting Bits](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/counting_bits.rb)
+9. [Number of Set Bits](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/number_of_set_bits.rb)
+10. [Reverse Bits](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/reverse_bits.rb)
  
 <a name="maths"/>
 
@@ -268,6 +270,8 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 29. [Maximum Subarray Sum](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/maximum_subarray_sum.rb)
 30. [Same Tree](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/same_tree.rb)
 31. [Counting Bits](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/counting_bits.rb)
+33. [Number of Set Bits](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/number_of_set_bits.rb)
+34. [Reverse Bits](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/reverse_bits.rb)
 
 <a name="striver"/>
 
