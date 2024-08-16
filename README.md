@@ -272,6 +272,8 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 31. [Counting Bits](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/counting_bits.rb)
 33. [Number of Set Bits](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/number_of_set_bits.rb)
 34. [Reverse Bits](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/reverse_bits.rb)
+35. [Meeting Rooms](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/meeting_rooms.rb)
+36. [Roman to Integer](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/roman_to_integer.rb)
 
 <a name="striver"/>
 
