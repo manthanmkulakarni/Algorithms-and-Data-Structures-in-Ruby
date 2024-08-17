@@ -153,6 +153,7 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 
 1. [Print Next Greatest Element for each element of array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/NextGreatestElement.rb)
 2. [Backspace String Compare](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/backspace_string_compare.rb)
+3. [Evaluate Reverse Polish Notation](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/evaluate_reverse_polish_notation.rb)
 
 <a name="linked_list"/>
 
@@ -162,7 +163,7 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 3. [Linked List Cycle](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/linked_list_cycle.rb)
 4. [Merge Two Sorted Lists](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/merge_sorted_lists.rb)
 5. [Palindrome Linked List](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/palindrome_linked_list.rb)
-
+6. [Remove nth node from end in list](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/remove_nth_node_from_end_of_list.rb)
 
 <a name="bitAlgo"/>
 
@@ -274,6 +275,12 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 34. [Reverse Bits](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/reverse_bits.rb)
 35. [Meeting Rooms](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/meeting_rooms.rb)
 36. [Roman to Integer](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/roman_to_integer.rb)
+37. [Merge Intervals](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/merge_intervals.rb)
+38. [Insert Intervals](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/insert_intervals.rb)
+39. [Product of Array Except self](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/product_of_array_except_self.rb)
+40. [Sort Colors](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/sort_colors.rb)
+41. [Evaluate Reverse Polish Notation](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/evaluate_reverse_polish_notation.rb)
+42. [Remove nth node from end in list](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/remove_nth_node_from_end_of_list.rb)
 
 <a name="striver"/>
 
