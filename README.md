@@ -214,7 +214,6 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 <a name="exercism"/>
 
 ### [Exercism Ruby Track](https://exercism.org/tracks/ruby)
-
 #### Problems
 1. [Hello World](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/hello_world.rb)
 2. [Lasagna](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/lasagna.rb)
@@ -227,11 +226,15 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 9. [Chess Game](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/chess_game.rb)
 10. [BlackJack](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/blackjack.rb)
 11. [Bird Count](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/bird_count.rb)
-11. [Boutique Inventory](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/boutique_inventory.rb)
-11. [Boutique Inventory Improvements](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/boutique_inventory_improvements.rb)
-11. [Locomotive Engineer](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/locomotive_engineer.rb)
-11. [Moviegoer](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/moviegoer.rb)
-
+12. [Boutique Inventory](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/boutique_inventory.rb)
+13. [Boutique Inventory Improvements](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/boutique_inventory_improvements.rb)
+14. [Locomotive Engineer](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/locomotive_engineer.rb)
+15. [Moviegoer](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/moviegoer.rb)
+16. [Simple Calculator](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/simple_calculator.rb)
+17. [Two fer](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/two_fer.rb)
+18. [Resistor Color Duo](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/resistor_color_duo.rb)
+19. [Acronym](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/acronym.rb)
+20. [High Scores](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/high_scores.rb)
 
 <a name="leetcode"/>
 
