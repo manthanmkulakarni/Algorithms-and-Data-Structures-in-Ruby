@@ -136,6 +136,7 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 1. [Longest Palindrome](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/longest_palindrome.rb)
 2. [Valid Anagram](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/valid_anagram.rb)
 3. [Valid Palindrome](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/valid_palindrome.rb)
+4. [Longest Common Prefix](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/longest_common_prefix.rb)
 
 <a name="hashing"/>
 
@@ -154,6 +155,7 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 1. [Print Next Greatest Element for each element of array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/NextGreatestElement.rb)
 2. [Backspace String Compare](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/backspace_string_compare.rb)
 3. [Evaluate Reverse Polish Notation](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/evaluate_reverse_polish_notation.rb)
+4. [Implement Queue using Stacks](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/queue_using_stacks.rb)
 
 <a name="linked_list"/>
 
@@ -284,6 +286,8 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 40. [Sort Colors](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/sort_colors.rb)
 41. [Evaluate Reverse Polish Notation](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/evaluate_reverse_polish_notation.rb)
 42. [Remove nth node from end in list](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/remove_nth_node_from_end_of_list.rb)
+43. [Implement Queue using Stacks](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/queue_using_stacks.rb)
+44. [Longest Common Prefix](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/longest_common_prefix.rb)
 
 <a name="striver"/>
 
