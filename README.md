@@ -156,6 +156,7 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 2. [Backspace String Compare](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/backspace_string_compare.rb)
 3. [Evaluate Reverse Polish Notation](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/evaluate_reverse_polish_notation.rb)
 4. [Implement Queue using Stacks](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/queue_using_stacks.rb)
+5. [Min Stack](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/min_stack.rb)
 
 <a name="linked_list"/>
 
@@ -237,6 +238,11 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 18. [Resistor Color Duo](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/resistor_color_duo.rb)
 19. [Acronym](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/acronym.rb)
 20. [High Scores](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/high_scores.rb)
+21. [Reverse String](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/reverse_string.rb)
+22. [D&D Character](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/d&d_chharacters.rb)
+23. [Matrix](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/matrix.rb)
+24. [Series](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/series.rb)
+25. [Word Count](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/word_count.rb)
 
 <a name="leetcode"/>
 
@@ -288,6 +294,10 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 42. [Remove nth node from end in list](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/remove_nth_node_from_end_of_list.rb)
 43. [Implement Queue using Stacks](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/queue_using_stacks.rb)
 44. [Longest Common Prefix](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/longest_common_prefix.rb)
+45. [Three Sum/3sum](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/three_sum.rb)
+46. [3sum Closest](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/3sum_closest.rb)
+47. [Min Stack](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/min_stack.rb)
+
 
 <a name="striver"/>
 
