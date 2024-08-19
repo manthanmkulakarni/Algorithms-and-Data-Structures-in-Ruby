@@ -247,6 +247,7 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 <a name="leetcode"/>
 
 ## [LeetCode](https://leetcode.com/problems)
+1. [Insert Delete GetRandom in O(1)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/insert_delete_get_random_o1.rb)
 
 <a name="grind-75"/>
 
