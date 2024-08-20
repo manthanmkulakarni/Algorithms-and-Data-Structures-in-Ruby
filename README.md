@@ -243,6 +243,12 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 23. [Matrix](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/matrix.rb)
 24. [Series](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/series.rb)
 25. [Word Count](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/word_count.rb)
+26. [Eliud's Eggs](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/eliuds_eggs.rb)
+27. [Hamming](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/hamming.rb)
+28. [Raindrops](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/raindrops.rb)
+29. [Isogram](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/isogram.rb)
+30. [Scrabble Score](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/scrabble_score.rb)
+
 
 <a name="leetcode"/>
 
