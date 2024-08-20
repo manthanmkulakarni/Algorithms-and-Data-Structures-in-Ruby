@@ -2,7 +2,7 @@
 > ### Featured on [Awesome-algorithms](https://github.com/tayllan/awesome-algorithms) & [Ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks)
 
 This repository contains Ruby implementation of various Algorithms and Data structures and
-solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Codility](https://codility.com)
+solution of many challenges of [Leetcode](https://leetcode.com/),[Exercism](https://exercism.org/),[HackerRank](https://www.hackerrank.com) and [Codility](https://codility.com)
 
 ## Content : 
 * [Searching](#searching)
@@ -248,7 +248,11 @@ solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Cod
 28. [Raindrops](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/raindrops.rb)
 29. [Isogram](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/isogram.rb)
 30. [Scrabble Score](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/scrabble_score.rb)
-
+31. [Luhn](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/luhn.rb)
+32. [Clock](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/clock.rb)
+33. [Twelve Days](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/twelve_days.rb)
+34. [Tournament](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/tournament.rb)
+35. [Gigasecond](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/gigasecond.rb)
 
 <a name="leetcode"/>
 
