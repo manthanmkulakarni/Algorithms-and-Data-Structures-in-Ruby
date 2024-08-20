@@ -2,7 +2,7 @@
 > ### Featured on [Awesome-algorithms](https://github.com/tayllan/awesome-algorithms) & [Ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks)
 
 This repository contains Ruby implementation of various Algorithms and Data structures and
-solution of many challenges of [Leetcode](https://leetcode.com/),[Exercism](https://exercism.org/),[HackerRank](https://www.hackerrank.com) and [Codility](https://codility.com)
+solution of many challenges of [Leetcode](https://leetcode.com/), [Exercism](https://exercism.org/), [HackerRank](https://www.hackerrank.com) and [Codility](https://codility.com)
 
 ## Content : 
 * [Searching](#searching)
