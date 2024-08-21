@@ -253,6 +253,12 @@ solution of many challenges of [Leetcode](https://leetcode.com/), [Exercism](htt
 33. [Twelve Days](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/twelve_days.rb)
 34. [Tournament](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/tournament.rb)
 35. [Gigasecond](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/gigasecond.rb)
+36. [Resistor Color](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/resistor_color.rb)
+37. [Rna Transcription](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/rna_transcription.rb)
+38. [Leap](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/leap.rb)
+39. [Pangram](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/pangram.rb)
+40. [Space Age](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/space_age.rb)
+
 
 <a name="leetcode"/>
 
