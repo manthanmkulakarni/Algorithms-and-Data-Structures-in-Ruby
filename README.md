@@ -314,6 +314,7 @@ solution of many challenges of [Leetcode](https://leetcode.com/), [Exercism](htt
 45. [Three Sum/3sum](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/three_sum.rb)
 46. [3sum Closest](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/3sum_closest.rb)
 47. [Min Stack](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/min_stack.rb)
+48. [Balanced Binary tree](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/balanced_binary_tree.rb)
 
 
 <a name="striver"/>
