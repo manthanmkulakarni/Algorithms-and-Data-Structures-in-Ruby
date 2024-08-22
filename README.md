@@ -258,7 +258,11 @@ solution of many challenges of [Leetcode](https://leetcode.com/), [Exercism](htt
 38. [Leap](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/leap.rb)
 39. [Pangram](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/pangram.rb)
 40. [Space Age](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/space_age.rb)
-
+41. [Triangle](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/triangle.rb)
+42. [DIfference of Squares](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/difference_of_squares.rb)
+43. [Anagram](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/anagram.rb)
+44. [Spiral Matrix](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/spiral_matrix.rb)
+45. [Sum of Multiples](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/sum_of_multiples.rb)
 
 <a name="leetcode"/>
 
