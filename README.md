@@ -268,6 +268,11 @@ solution of many challenges of [Leetcode](https://leetcode.com/), [Exercism](htt
 48. [Flatten Array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/flatten_array.rb)
 49. [Phone Number](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/phone_number.rb)
 50. [Grains](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/grains.rb)
+51. [Resistor Color Trio](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/resistor_color_trio.rb)
+52. [Saddle Points](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/saddle_points.rb)
+53. [ETL](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/etl.rb)
+54. [Nucleotide Count](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/nucleotide_count.rb)
+55. [Pythogorean Triplet](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/pythogorean_triplet.rb)
 
 <a name="leetcode"/>
 
