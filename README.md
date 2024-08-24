@@ -263,6 +263,11 @@ solution of many challenges of [Leetcode](https://leetcode.com/), [Exercism](htt
 43. [Anagram](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/anagram.rb)
 44. [Spiral Matrix](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/spiral_matrix.rb)
 45. [Sum of Multiples](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/sum_of_multiples.rb)
+46. [Transpose](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/transpose.rb)
+47. [Armstrong Numbers](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/armstrong_numbers.rb)
+48. [Flatten Array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/flatten_array.rb)
+49. [Phone Number](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/phone_number.rb)
+50. [Grains](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/grains.rb)
 
 <a name="leetcode"/>
 
