@@ -275,6 +275,7 @@ solution of many challenges of [Leetcode](https://leetcode.com/), [Exercism](htt
 55. [Pythogorean Triplet](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/pythogorean_triplet.rb)
 56. [Collatz Conjecture](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/collatz_conjecture.rb)
 57. [Seive](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/seive.rb)
+58. [Proverb](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/proverb.rb)
 
 <a name="leetcode"/>
 
