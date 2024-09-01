@@ -277,6 +277,7 @@ solution of many challenges of [Leetcode](https://leetcode.com/), [Exercism](htt
 57. [Seive](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/seive.rb)
 58. [Proverb](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/proverb.rb)
 59. [Palindrome Products](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/palindrome_products.rb)
+60. [Parallel Letter Frequency](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/parallel_letter_frequency.rb)
 
 <a name="leetcode"/>
 
