@@ -36,3 +36,15 @@ class Prime
     Prime.first(count).last
   end
 end
+
+# Solution 3 
+class Prime
+
+  # Credit for this solution at http://codereview.stackexchange.com/questions/90813/finding-the-nth-prime - this is not my code
+  def self.nth n
+    up_to = n * (Math.log(n) + 2)
+    primes = (2..up_to).to_a
+    primes.each {|num| primes.delete_if {|i| i > num && (i % num) == 0} }
+    primes[n-1]
+  end
+end
