@@ -280,6 +280,7 @@ solution of many challenges of [Leetcode](https://leetcode.com/), [Exercism](htt
 60. [Parallel Letter Frequency](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/parallel_letter_frequency.rb)
 61. [Bob](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/bob.rb)
 62. [Nth Prime](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/nth_prime.rb)
+63. [Perfect Numbers](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/perfect_numbers.rb)
 
 <a name="leetcode"/>
 
