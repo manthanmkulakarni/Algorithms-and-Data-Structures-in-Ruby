@@ -28,7 +28,7 @@ end
 
 def compare_subtrees(left_tree,right_tree)
     return true if left_tree.nil? and right_tree.nil?
-    return false if eft_tree.nil? or right_tree.nil?
+    return false if left_tree.nil? or right_tree.nil?
     return false unless (left_tree.val == right_tree.val)
     return false unless compare_subtrees(left_tree.right,right_tree.left)
     compare_subtrees(left_tree.left,right_tree.right)
