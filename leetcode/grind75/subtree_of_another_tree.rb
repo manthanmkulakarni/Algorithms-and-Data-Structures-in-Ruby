@@ -23,10 +23,7 @@ The tree tree could also be considered as a subtree of itself.
 def is_subtree(root, sub_root)
     return true if sub_root.nil?
     return false if root.nil?
-    is_found = false
-    if root.val == sub_root.val
-        return true if is_same_tree(root, sub_root)
-    end
+    return true if is_same_tree(root, sub_root)
     is_subtree(root.left, sub_root) || is_subtree(root.right, sub_root)
 end
 
