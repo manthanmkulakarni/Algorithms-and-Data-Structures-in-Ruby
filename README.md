@@ -338,7 +338,7 @@ solution of many challenges of [Leetcode](https://leetcode.com/), [Exercism](htt
 47. [Min Stack](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/min_stack.rb)
 48. [Balanced Binary tree](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/balanced_binary_tree.rb)
 49. [Symmetric Tree](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/symmetric_tree.rb)
-
+50. [Subtree of Another Tree](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/subtree_of_another_tree.rb)
 
 <a name="striver"/>
 
