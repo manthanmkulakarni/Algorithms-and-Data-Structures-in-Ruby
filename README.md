@@ -285,6 +285,7 @@ solution of many challenges of [Leetcode](https://leetcode.com/), [Exercism](htt
 65. [Matching Brackets](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/matching_brackets.rb)
 66. [All Your Base](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/all_your_base.rb)
 67. [Allergies](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/allergies.rb)
+68. [Run Length Encoding](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/run_length_encoding.rb)
 
 <a name="leetcode"/>
 
