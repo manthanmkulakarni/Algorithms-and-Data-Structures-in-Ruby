@@ -202,6 +202,10 @@ solution of many challenges of [Leetcode](https://leetcode.com/), [Exercism](htt
 1. [Invert Binary Tree](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/invert_binary_tree.rb)
 2. [Height of Binary Tree](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/max_depth_of_binary_tree.rb)
 3. [Same Tree](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/same_tree.rb)
+4. [Balanced Binary tree](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/balanced_binary_tree.rb)
+5. [Symmetric Tree](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/symmetric_tree.rb)
+6. [Subtree of Another Tree](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/subtree_of_another_tree.rb)
+
 
 <a name="bst"/>
 
