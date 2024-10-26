@@ -294,6 +294,7 @@ solution of many challenges of [Leetcode](https://leetcode.com/), [Exercism](htt
 70. [Beer Song](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/beer_song.rb)
 71. [Protein Translation](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/protein_translation.rb)
 72. [Wordy](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/wordy.rb)
+73. [Secret Handshake](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/secret_handshake.rb)
 
 <a name="leetcode"/>
 
