@@ -297,6 +297,7 @@ solution of many challenges of [Leetcode](https://leetcode.com/), [Exercism](htt
 73. [Secret Handshake](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/secret_handshake.rb)
 74. [Atbash Cipher](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/atbash_cipher.rb)
 75. [Crypto Square](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/crypto_square.rb)
+76. [List Ops](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/list_ops.rb)
 
 <a name="leetcode"/>
 
