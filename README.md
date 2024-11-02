@@ -199,12 +199,16 @@ solution of many challenges of [Leetcode](https://leetcode.com/), [Exercism](htt
 <a name="binary_tree"/>
 
 #### Binary Trees
-1. [Invert Binary Tree](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/invert_binary_tree.rb)
-2. [Height of Binary Tree](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/max_depth_of_binary_tree.rb)
-3. [Same Tree](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/same_tree.rb)
-4. [Balanced Binary tree](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/balanced_binary_tree.rb)
-5. [Symmetric Tree](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/symmetric_tree.rb)
-6. [Subtree of Another Tree](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/subtree_of_another_tree.rb)
+1. [Tree Node](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/trees/tree_node.rb)
+2. [In-order Traversal](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/trees/inorder_traversal.rb)
+3. [Pre-order Traversal](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/trees/preorder_traversal.rb)
+4. [Post-order Traversal](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/trees/postorder_traversal.rb)
+5. [Invert Binary Tree](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/invert_binary_tree.rb)
+6. [Height of Binary Tree](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/max_depth_of_binary_tree.rb)
+7. [Same Tree](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/same_tree.rb)
+8. [Balanced Binary tree](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/balanced_binary_tree.rb)
+9. [Symmetric Tree](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/symmetric_tree.rb)
+10. [Subtree of Another Tree](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/subtree_of_another_tree.rb)
 
 
 <a name="bst"/>
