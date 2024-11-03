@@ -209,7 +209,7 @@ solution of many challenges of [Leetcode](https://leetcode.com/), [Exercism](htt
 8. [Balanced Binary tree](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/balanced_binary_tree.rb)
 9. [Symmetric Tree](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/symmetric_tree.rb)
 10. [Subtree of Another Tree](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/grind75/subtree_of_another_tree.rb)
-
+11. [Binary Tree Level order Traversal](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/binary_tree_level_order_traversal.rb)
 
 <a name="bst"/>
 
@@ -308,6 +308,7 @@ solution of many challenges of [Leetcode](https://leetcode.com/), [Exercism](htt
 
 ## [LeetCode](https://leetcode.com/problems)
 1. [Insert Delete GetRandom in O(1)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/insert_delete_get_random_o1.rb)
+2. [Binary Tree Level order Traversal](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/leetcode/binary_tree_level_order_traversal.rb)
 
 <a name="grind-75"/>
 
