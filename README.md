@@ -304,6 +304,7 @@ solution of many challenges of [Leetcode](https://leetcode.com/), [Exercism](htt
 76. [List Ops](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/list_ops.rb)
 77. [Simple Linked List](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/simple_linked_list.rb)
 78. [Binary Search Tree](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/binary_search_tree.rb)
+79. [Rotational Cipher](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/rotational_cipher.rb)
 
 <a name="leetcode"/>
 
