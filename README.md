@@ -307,6 +307,7 @@ solution of many challenges of [Leetcode](https://leetcode.com/), [Exercism](htt
 79. [Rotational Cipher](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/rotational_cipher.rb)
 80. [Largest Series Product](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/largest_series_product.rb)
 81. [Prime Factors](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/prime_factors.rb)
+82. [Linked List](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/linked_list.rb)
 
 <a name="leetcode"/>
 
