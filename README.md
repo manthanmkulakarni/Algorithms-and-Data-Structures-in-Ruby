@@ -308,6 +308,7 @@ solution of many challenges of [Leetcode](https://leetcode.com/), [Exercism](htt
 80. [Largest Series Product](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/largest_series_product.rb)
 81. [Prime Factors](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/prime_factors.rb)
 82. [Linked List](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/linked_list.rb)
+83. [ISBN Verifier](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/isbn_verifier.rb)
 
 <a name="leetcode"/>
 
