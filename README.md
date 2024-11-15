@@ -311,6 +311,7 @@ solution of many challenges of [Leetcode](https://leetcode.com/), [Exercism](htt
 83. [ISBN Verifier](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/isbn_verifier.rb)
 84. [Complex Number](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/complex_number.rb)
 85. [Microwave](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/microwave.rb)
+86. [Darts](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/darts.rb)
 
 <a name="leetcode"/>
 
