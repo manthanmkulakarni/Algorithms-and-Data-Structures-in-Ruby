@@ -312,6 +312,8 @@ solution of many challenges of [Leetcode](https://leetcode.com/), [Exercism](htt
 84. [Complex Number](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/complex_number.rb)
 85. [Microwave](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/microwave.rb)
 86. [Darts](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/darts.rb)
+87. [Bank Account](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/bank_account.rb)
+88. [Gilded Rose](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/exercism/gilded_rose.rb)
 
 <a name="leetcode"/>
 
